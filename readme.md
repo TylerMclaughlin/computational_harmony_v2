@@ -2,7 +2,7 @@
 
 This computational music theory project assigns a brightness and darkness score for all 28 modes derived from four jazz scales:  major, melodic minor, harmonic minor, and harmonic major.
 
-Other applications and experiments included in this code repository include characterizing and ranking the brightness of 1) all triad combos, 2) all 7th chords added to a root note, and 3) all 59 possible dominant 7th chord extensions (for these three applications, I am only considering chords that are subsets of at least one of the 28 modes derived from the four parent scale types.)
+Other applications and experiments found in this code repository include characterizing and ranking the brightness of 1) all triad combos, 2) all 7th chords added to a root note, and 3) all 59 possible dominant 7th chord extensions (for these three applications, I am only considering chords that are subsets of at least one of the 28 modes derived from the four parent scale types.)
 
 All results were obtained using python code in this repository.
 Scale network figures were generated with networkx and calculations were done with numpy and pandas.
