@@ -1,4 +1,4 @@
-# Computational Harmony v2
+# Brightness Scores for 28 Jazz Modes and 18 Rules for Modulation.
 
 This computational music theory project assigns a brightness and darkness score for all 28 modes derived from four jazz scales:  major, melodic minor, harmonic minor, and harmonic major.
 
@@ -9,7 +9,7 @@ Other applications and experiments found in this code repository include charact
 All results were obtained using python code in this repository.
 Scale network figures were generated with networkx and calculations were done with numpy and pandas.
 
-**TLDR**:  I defined a formula for calculating the brightness score for any 7 note mode, where locrian has a brightness score of -3, dorian 0, and lydian +3.   Dorian, mixolydian b6, harmonic minor mode, and mixolydian b2 are neutral harmonic centers on the brightness/darkness spectrum for major, melodic minor, harmonic minor, and harmonic major, respectively.  By starting at the neutral centers and progressively enumerating jazz modes, for melodic minor, harmonic minor, and harmonic major, "rootless" modes are encountered before all 7 traditional modes are encountered.  Network analysis finds 18 "rules" for modulation, allowing composers to transition from one scale or mode to another while sharpening or flattening a single note by one half step ("maximally smooth voice leading").  Major scales are the most harmonically versatile of the four scale types, with more options for maximally smooth voice leading.
+**TLDR**:   I defined a formula for calculating the brightness score for any 7 note mode, where locrian has a brightness score of -3, dorian 0, and lydian +3.   Dorian, mixolydian b6, harmonic minor mode, and mixolydian b2 are neutral harmonic centers of the brightness/darkness spectrum for major, melodic minor, harmonic minor, and harmonic major, respectively.  By starting at the neutral centers and progressively enumerating jazz modes, "rootless" modes are encountered before all 7 traditional modes are enumerated for all scales except major.  Network analysis finds 18 "rules" for modulation, allowing composers to transition from one scale or mode to another while sharpening or flattening a single note by one half step ("maximally smooth voice leading").  Major scales are the most harmonically versatile of the four scale types, with more options for maximally smooth voice leading.
 
 ## History
 
