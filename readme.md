@@ -1,6 +1,6 @@
-# Brightness Scores for 28 Jazz Modes and 18 Rules for Modulation.
+# Brightness Scores for 28 Jazz Modes and 18 Rules for Modulation
 
-This computational music theory project assigns a brightness and darkness score for all 28 modes derived from four jazz scales:  major, melodic minor, harmonic minor, and harmonic major.
+This computational music theory project assigns a brightness (negative darkness score) for all 28 modes derived from four jazz scales:  major, melodic minor, harmonic minor, and harmonic major.
 
 I constructed scale networks to visualize the interrelations between the 28 modes.  From these networks I came up with 18 "rules" for modulation that allow for maximally smooth voice leading.
 
