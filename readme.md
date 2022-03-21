@@ -45,7 +45,7 @@ Another interesting observation is that there is a staggered pattern of the thre
 Perhaps the most useful finding (for negative harmony and jazz composition) is that the neutral modes of the four scale types are dorian (the second mode of the major scale), mixolydian b6 (the fifth mode of the melodic minor scale), harmonic minor (the first mode of the eponymous parent scale), and mixolydian b2 (the fifth mode of the harmonic major scale).  
 These modes can thus be used as a reference point for composing with brightness and darkness.  
 
-The fact that dorian, mixolydian b6, harmonic minor, and mixolydian b2 are neutral centers is to my knowledge, not widely appreciated in the music theory literature.
+The idea that dorian, mixolydian b6, harmonic minor, and mixolydian b2 appear to be neutral harmonic centers of these scales is to my knowledge, not proposed in the music theory literature.
 Perhaps one could argue for systematic renaming of scales according to their graph-theoretical properties and apparent harmonic symmetry; however, the etymological origins of the names of scales most likely predate computers and graph theory, and musicians benefit from having conventions for communicating ideas. Further, musicians are used to having many names for the same chord (for example "min7b5" and "half-diminished" refer to the same thing). Perhaps a new set of names should be proposed.
 
 ### Directed graphs of scales 
