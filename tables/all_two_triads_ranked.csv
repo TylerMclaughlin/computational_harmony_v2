@@ -1,0 +1,170 @@
+,extensions (pitch classes),compatible modes,parent scale types,brightness
+0,"[0, 3, 6]__[0, 3, 6]",Altered b7; Locrian b7; Altered; Locrian; Locrian #6; Aeolian b5; Dorian b5; Dorian #4; Lydian b3; Lydian #2; Lydian #5 #2,harmonic_minor; harmonic_major; melodic_minor; major; harmonic_minor; melodic_minor; harmonic_major; harmonic_minor; harmonic_major; harmonic_minor; harmonic_major,"[-5, -4, -4, -3, -2, -2, -1, 1, 2, 4, 5]"
+1,"[0, 3, 7]__[0, 3, 7]",Phrygian b4; Phrygian; Aeolian; Dorian b2; Harmonic Minor; Dorian; Dorian #4; Melodic Minor; Lydian b3; Lydian #2,harmonic_major; major; major; melodic_minor; harmonic_minor; major; harmonic_minor; melodic_minor; harmonic_major; harmonic_minor,"[-3, -2, -1, -1, 0, 0, 1, 1, 2, 4]"
+2,"[0, 4, 7]__[0, 4, 7]",Phrygian b4; Phrygian #3; Mixolydian b2; Mixolydian b6; Harmonic major; Mixolydian; Ionian; Lydian Dominant; Lydian; Lydian #2,harmonic_major; harmonic_minor; harmonic_major; melodic_minor; harmonic_major; major; major; melodic_minor; major; harmonic_minor,"[-3, -1, 0, 0, 1, 1, 2, 2, 3, 4]"
+3,"[0, 4, 8]__[0, 4, 8]",Altered b7; Altered; Phrygian b4; Phrygian #3; Mixolydian b6; Harmonic major; Ionian #5; Lydian #5; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major; harmonic_minor; melodic_minor; harmonic_major; harmonic_minor; melodic_minor; harmonic_major,"[-5, -4, -3, -1, 0, 1, 3, 4, 5]"
+4,"[0, 4, 8]__[4, 8, 0]",Altered b7; Altered; Phrygian b4; Phrygian #3; Mixolydian b6; Harmonic major; Ionian #5; Lydian #5; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major; harmonic_minor; melodic_minor; harmonic_major; harmonic_minor; melodic_minor; harmonic_major,"[-5, -4, -3, -1, 0, 1, 3, 4, 5]"
+5,"[0, 4, 8]__[8, 0, 4]",Altered b7; Altered; Phrygian b4; Phrygian #3; Mixolydian b6; Harmonic major; Ionian #5; Lydian #5; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major; harmonic_minor; melodic_minor; harmonic_major; harmonic_minor; melodic_minor; harmonic_major,"[-5, -4, -3, -1, 0, 1, 3, 4, 5]"
+6,"[0, 3, 6]__[3, 6, 9]",Altered b7; Locrian b7; Locrian #6; Dorian b5; Dorian #4; Lydian b3; Lydian #2; Lydian #5 #2,harmonic_minor; harmonic_major; harmonic_minor; harmonic_major; harmonic_minor; harmonic_major; harmonic_minor; harmonic_major,"[-5, -4, -2, -1, 1, 2, 4, 5]"
+7,"[0, 3, 6]__[6, 9, 0]",Altered b7; Locrian b7; Locrian #6; Dorian b5; Dorian #4; Lydian b3; Lydian #2; Lydian #5 #2,harmonic_minor; harmonic_major; harmonic_minor; harmonic_major; harmonic_minor; harmonic_major; harmonic_minor; harmonic_major,"[-5, -4, -2, -1, 1, 2, 4, 5]"
+8,"[0, 3, 6]__[9, 0, 3]",Altered b7; Locrian b7; Locrian #6; Dorian b5; Dorian #4; Lydian b3; Lydian #2; Lydian #5 #2,harmonic_minor; harmonic_major; harmonic_minor; harmonic_major; harmonic_minor; harmonic_major; harmonic_minor; harmonic_major,"[-5, -4, -2, -1, 1, 2, 4, 5]"
+9,"[0, 4, 7]__[4, 7, 10]",Phrygian b4; Phrygian #3; Mixolydian b2; Mixolydian b6; Mixolydian; Lydian Dominant,harmonic_major; harmonic_minor; harmonic_major; melodic_minor; major; melodic_minor,"[-3, -1, 0, 0, 1, 2]"
+10,"[0, 3, 7]__[3, 7, 10]",Phrygian b4; Phrygian; Aeolian; Dorian b2; Dorian; Dorian #4,harmonic_major; major; major; melodic_minor; major; harmonic_minor,"[-3, -2, -1, -1, 0, 1]"
+11,"[0, 3, 7]__[9, 0, 3]",Dorian b2; Dorian; Dorian #4; Melodic Minor; Lydian b3; Lydian #2,melodic_minor; major; harmonic_minor; melodic_minor; harmonic_major; harmonic_minor,"[-1, 0, 1, 1, 2, 4]"
+12,"[0, 3, 6]__[3, 6, 10]",Altered; Locrian; Locrian #6; Aeolian b5; Dorian b5; Dorian #4,melodic_minor; major; harmonic_minor; melodic_minor; harmonic_major; harmonic_minor,"[-4, -3, -2, -2, -1, 1]"
+13,"[0, 4, 7]__[9, 0, 4]",Mixolydian b2; Mixolydian; Ionian; Lydian Dominant; Lydian; Lydian #2,harmonic_major; major; major; melodic_minor; major; harmonic_minor,"[0, 1, 2, 2, 3, 4]"
+14,"[0, 3, 6]__[8, 0, 3]",Altered b7; Locrian b7; Altered; Locrian; Aeolian b5; Lydian #5 #2,harmonic_minor; harmonic_major; melodic_minor; major; melodic_minor; harmonic_major,"[-5, -4, -4, -3, -2, 5]"
+15,"[0, 4, 7]__[0, 4, 8]",Phrygian b4; Phrygian #3; Mixolydian b6; Harmonic major,harmonic_major; harmonic_minor; melodic_minor; harmonic_major,"[-3, -1, 0, 1]"
+16,"[0, 4, 7]__[4, 8, 0]",Phrygian b4; Phrygian #3; Mixolydian b6; Harmonic major,harmonic_major; harmonic_minor; melodic_minor; harmonic_major,"[-3, -1, 0, 1]"
+17,"[0, 4, 7]__[8, 0, 4]",Phrygian b4; Phrygian #3; Mixolydian b6; Harmonic major,harmonic_major; harmonic_minor; melodic_minor; harmonic_major,"[-3, -1, 0, 1]"
+18,"[0, 4, 8]__[0, 4, 7]",Phrygian b4; Phrygian #3; Mixolydian b6; Harmonic major,harmonic_major; harmonic_minor; melodic_minor; harmonic_major,"[-3, -1, 0, 1]"
+19,"[0, 4, 8]__[5, 8, 0]",Phrygian #3; Mixolydian b6; Harmonic major; Ionian #5,harmonic_minor; melodic_minor; harmonic_major; harmonic_minor,"[-1, 0, 1, 3]"
+20,"[0, 3, 7]__[8, 0, 3]",Phrygian b4; Phrygian; Aeolian; Harmonic Minor,harmonic_major; major; major; harmonic_minor,"[-3, -2, -1, 0]"
+21,"[0, 3, 7]__[11, 3, 7]",Harmonic Minor; Melodic Minor; Lydian b3; Lydian #2,harmonic_minor; melodic_minor; harmonic_major; harmonic_minor,"[0, 1, 2, 4]"
+22,"[0, 3, 7]__[3, 7, 11]",Harmonic Minor; Melodic Minor; Lydian b3; Lydian #2,harmonic_minor; melodic_minor; harmonic_major; harmonic_minor,"[0, 1, 2, 4]"
+23,"[0, 3, 7]__[7, 11, 3]",Harmonic Minor; Melodic Minor; Lydian b3; Lydian #2,harmonic_minor; melodic_minor; harmonic_major; harmonic_minor,"[0, 1, 2, 4]"
+24,"[0, 4, 8]__[8, 0, 3]",Altered b7; Altered; Phrygian b4; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major; harmonic_major,"[-5, -4, -3, 5]"
+25,"[0, 4, 8]__[9, 0, 4]",Altered b7; Ionian #5; Lydian #5; Lydian #5 #2,harmonic_minor; harmonic_minor; melodic_minor; harmonic_major,"[-5, 3, 4, 5]"
+26,"[0, 4, 7]__[4, 7, 11]",Harmonic major; Ionian; Lydian; Lydian #2,harmonic_major; major; major; harmonic_minor,"[1, 2, 3, 4]"
+27,"[0, 4, 8]__[1, 4, 8]",Altered b7; Altered; Phrygian b4; Phrygian #3,harmonic_minor; melodic_minor; harmonic_major; harmonic_minor,"[-5, -4, -3, -1]"
+28,"[0, 4, 8]__[4, 8, 11]",Harmonic major; Ionian #5; Lydian #5; Lydian #5 #2,harmonic_major; harmonic_minor; melodic_minor; harmonic_major,"[1, 3, 4, 5]"
+29,"[0, 3, 7]__[5, 9, 0]",Dorian b2; Dorian; Melodic Minor,melodic_minor; major; melodic_minor,"[-1, 0, 1]"
+30,"[0, 3, 7]__[7, 10, 2]",Aeolian; Dorian; Dorian #4,major; major; harmonic_minor,"[-1, 0, 1]"
+31,"[0, 4, 7]__[5, 8, 0]",Phrygian #3; Mixolydian b6; Harmonic major,harmonic_minor; melodic_minor; harmonic_major,"[-1, 0, 1]"
+32,"[0, 3, 6]__[10, 2, 6]",Aeolian b5; Dorian b5; Dorian #4,melodic_minor; harmonic_major; harmonic_minor,"[-2, -1, 1]"
+33,"[0, 3, 6]__[2, 6, 10]",Aeolian b5; Dorian b5; Dorian #4,melodic_minor; harmonic_major; harmonic_minor,"[-2, -1, 1]"
+34,"[0, 3, 6]__[2, 6, 9]",Dorian b5; Dorian #4; Lydian b3,harmonic_major; harmonic_minor; harmonic_major,"[-1, 1, 2]"
+35,"[0, 3, 6]__[6, 10, 2]",Aeolian b5; Dorian b5; Dorian #4,melodic_minor; harmonic_major; harmonic_minor,"[-2, -1, 1]"
+36,"[0, 3, 7]__[5, 8, 0]",Phrygian; Aeolian; Harmonic Minor,major; major; harmonic_minor,"[-2, -1, 0]"
+37,"[0, 3, 7]__[7, 11, 2]",Harmonic Minor; Melodic Minor; Lydian b3,harmonic_minor; melodic_minor; harmonic_major,"[0, 1, 2]"
+38,"[0, 4, 7]__[5, 9, 0]",Mixolydian b2; Mixolydian; Ionian,harmonic_major; major; major,"[0, 1, 2]"
+39,"[0, 4, 7]__[7, 10, 2]",Mixolydian b6; Mixolydian; Lydian Dominant,melodic_minor; major; melodic_minor,"[0, 1, 2]"
+40,"[0, 3, 6]__[0, 4, 8]",Altered b7; Altered; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major,"[-5, -4, 5]"
+41,"[0, 3, 6]__[4, 8, 0]",Altered b7; Altered; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major,"[-5, -4, 5]"
+42,"[0, 3, 6]__[8, 0, 4]",Altered b7; Altered; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major,"[-5, -4, 5]"
+43,"[0, 3, 6]__[9, 0, 4]",Altered b7; Lydian #2; Lydian #5 #2,harmonic_minor; harmonic_minor; harmonic_major,"[-5, 4, 5]"
+44,"[0, 4, 7]__[1, 4, 7]",Phrygian b4; Phrygian #3; Mixolydian b2,harmonic_major; harmonic_minor; harmonic_major,"[-3, -1, 0]"
+45,"[0, 4, 7]__[10, 1, 4]",Phrygian b4; Phrygian #3; Mixolydian b2,harmonic_major; harmonic_minor; harmonic_major,"[-3, -1, 0]"
+46,"[0, 4, 7]__[7, 10, 1]",Phrygian b4; Phrygian #3; Mixolydian b2,harmonic_major; harmonic_minor; harmonic_major,"[-3, -1, 0]"
+47,"[0, 4, 8]__[0, 3, 6]",Altered b7; Altered; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major,"[-5, -4, 5]"
+48,"[0, 4, 8]__[2, 5, 8]",Mixolydian b6; Harmonic major; Ionian #5,melodic_minor; harmonic_major; harmonic_minor,"[0, 1, 3]"
+49,"[0, 4, 8]__[4, 7, 10]",Phrygian b4; Phrygian #3; Mixolydian b6,harmonic_major; harmonic_minor; melodic_minor,"[-3, -1, 0]"
+50,"[0, 4, 8]__[6, 9, 0]",Altered b7; Lydian #5; Lydian #5 #2,harmonic_minor; melodic_minor; harmonic_major,"[-5, 4, 5]"
+51,"[0, 3, 7]__[7, 10, 1]",Phrygian b4; Phrygian; Dorian b2,harmonic_major; major; melodic_minor,"[-3, -2, -1]"
+52,"[0, 4, 7]__[7, 11, 2]",Harmonic major; Ionian; Lydian,harmonic_major; major; major,"[1, 2, 3]"
+53,"[0, 3, 6]__[0, 3, 7]",Dorian #4; Lydian b3; Lydian #2,harmonic_minor; harmonic_major; harmonic_minor,"[1, 2, 4]"
+54,"[0, 3, 6]__[5, 9, 0]",Locrian b7; Locrian #6; Dorian b5,harmonic_major; harmonic_minor; harmonic_major,"[-4, -2, -1]"
+55,"[0, 3, 7]__[0, 3, 6]",Dorian #4; Lydian b3; Lydian #2,harmonic_minor; harmonic_major; harmonic_minor,"[1, 2, 4]"
+56,"[0, 3, 7]__[3, 6, 9]",Dorian #4; Lydian b3; Lydian #2,harmonic_minor; harmonic_major; harmonic_minor,"[1, 2, 4]"
+57,"[0, 3, 7]__[6, 9, 0]",Dorian #4; Lydian b3; Lydian #2,harmonic_minor; harmonic_major; harmonic_minor,"[1, 2, 4]"
+58,"[0, 4, 8]__[10, 1, 4]",Altered; Phrygian b4; Phrygian #3,melodic_minor; harmonic_major; harmonic_minor,"[-4, -3, -1]"
+59,"[0, 4, 8]__[8, 11, 2]",Harmonic major; Ionian #5; Lydian #5,harmonic_major; harmonic_minor; melodic_minor,"[1, 3, 4]"
+60,"[0, 3, 6]__[5, 8, 0]",Locrian b7; Locrian; Aeolian b5,harmonic_major; major; melodic_minor,"[-4, -3, -2]"
+61,"[0, 3, 6]__[6, 10, 1]",Altered; Locrian; Locrian #6,melodic_minor; major; harmonic_minor,"[-4, -3, -2]"
+62,"[0, 4, 7]__[6, 9, 0]",Lydian Dominant; Lydian; Lydian #2,melodic_minor; major; harmonic_minor,"[2, 3, 4]"
+63,"[0, 3, 6]__[11, 3, 6]",Lydian b3; Lydian #2; Lydian #5 #2,harmonic_major; harmonic_minor; harmonic_major,"[2, 4, 5]"
+64,"[0, 3, 6]__[6, 9, 1]",Altered b7; Locrian b7; Locrian #6,harmonic_minor; harmonic_major; harmonic_minor,"[-5, -4, -2]"
+65,"[0, 4, 8]__[3, 6, 9]",Altered b7; Lydian #5 #2,harmonic_minor; harmonic_major,"[-5, 5]"
+66,"[0, 4, 8]__[9, 0, 3]",Altered b7; Lydian #5 #2,harmonic_minor; harmonic_major,"[-5, 5]"
+67,"[0, 3, 7]__[0, 4, 7]",Phrygian b4; Lydian #2,harmonic_major; harmonic_minor,"[-3, 4]"
+68,"[0, 3, 7]__[10, 2, 5]",Aeolian; Dorian,major; major,"[-1, 0]"
+69,"[0, 3, 7]__[11, 2, 5]",Harmonic Minor; Melodic Minor,harmonic_minor; melodic_minor,"[0, 1]"
+70,"[0, 3, 7]__[2, 5, 8]",Aeolian; Harmonic Minor,major; harmonic_minor,"[-1, 0]"
+71,"[0, 3, 7]__[2, 5, 9]",Dorian; Melodic Minor,major; melodic_minor,"[0, 1]"
+72,"[0, 4, 7]__[0, 3, 7]",Phrygian b4; Lydian #2,harmonic_major; harmonic_minor,"[-3, 4]"
+73,"[0, 4, 7]__[10, 1, 5]",Phrygian #3; Mixolydian b2,harmonic_minor; harmonic_major,"[-1, 0]"
+74,"[0, 4, 7]__[10, 2, 5]",Mixolydian b6; Mixolydian,melodic_minor; major,"[0, 1]"
+75,"[0, 4, 7]__[2, 5, 8]",Mixolydian b6; Harmonic major,melodic_minor; harmonic_major,"[0, 1]"
+76,"[0, 3, 6]__[10, 2, 5]",Aeolian b5; Dorian b5,melodic_minor; harmonic_major,"[-2, -1]"
+77,"[0, 3, 7]__[10, 1, 5]",Phrygian; Dorian b2,major; melodic_minor,"[-2, -1]"
+78,"[0, 3, 7]__[2, 6, 9]",Dorian #4; Lydian b3,harmonic_minor; harmonic_major,"[1, 2]"
+79,"[0, 4, 7]__[11, 2, 5]",Harmonic major; Ionian,harmonic_major; major,"[1, 2]"
+80,"[0, 4, 7]__[2, 5, 9]",Mixolydian; Ionian,major; major,"[1, 2]"
+81,"[0, 4, 7]__[1, 4, 8]",Phrygian b4; Phrygian #3,harmonic_major; harmonic_minor,"[-3, -1]"
+82,"[0, 4, 8]__[1, 4, 7]",Phrygian b4; Phrygian #3,harmonic_major; harmonic_minor,"[-3, -1]"
+83,"[0, 4, 8]__[11, 2, 5]",Harmonic major; Ionian #5,harmonic_major; harmonic_minor,"[1, 3]"
+84,"[0, 4, 8]__[5, 8, 11]",Harmonic major; Ionian #5,harmonic_major; harmonic_minor,"[1, 3]"
+85,"[0, 4, 8]__[7, 10, 1]",Phrygian b4; Phrygian #3,harmonic_major; harmonic_minor,"[-3, -1]"
+86,"[0, 3, 6]__[10, 1, 5]",Locrian; Locrian #6,major; harmonic_minor,"[-3, -2]"
+87,"[0, 4, 7]__[2, 6, 9]",Lydian Dominant; Lydian,melodic_minor; major,"[2, 3]"
+88,"[0, 3, 6]__[1, 5, 9]",Locrian b7; Locrian #6,harmonic_major; harmonic_minor,"[-4, -2]"
+89,"[0, 3, 6]__[11, 3, 7]",Lydian b3; Lydian #2,harmonic_major; harmonic_minor,"[2, 4]"
+90,"[0, 3, 6]__[3, 7, 11]",Lydian b3; Lydian #2,harmonic_major; harmonic_minor,"[2, 4]"
+91,"[0, 3, 6]__[5, 9, 1]",Locrian b7; Locrian #6,harmonic_major; harmonic_minor,"[-4, -2]"
+92,"[0, 3, 6]__[7, 11, 3]",Lydian b3; Lydian #2,harmonic_major; harmonic_minor,"[2, 4]"
+93,"[0, 3, 6]__[9, 1, 5]",Locrian b7; Locrian #6,harmonic_major; harmonic_minor,"[-4, -2]"
+94,"[0, 3, 7]__[11, 3, 6]",Lydian b3; Lydian #2,harmonic_major; harmonic_minor,"[2, 4]"
+95,"[0, 3, 6]__[1, 5, 8]",Locrian b7; Locrian,harmonic_major; major,"[-4, -3]"
+96,"[0, 3, 6]__[1, 4, 8]",Altered b7; Altered,harmonic_minor; melodic_minor,"[-5, -4]"
+97,"[0, 3, 7]__[5, 8, 11]",Harmonic Minor,harmonic_minor,[0]
+98,"[0, 3, 7]__[8, 11, 2]",Harmonic Minor,harmonic_minor,[0]
+99,"[0, 3, 7]__[8, 11, 3]",Harmonic Minor,harmonic_minor,[0]
+100,"[0, 4, 7]__[1, 5, 9]",Mixolydian b2,harmonic_major,[0]
+101,"[0, 4, 7]__[5, 9, 1]",Mixolydian b2,harmonic_major,[0]
+102,"[0, 4, 7]__[9, 1, 4]",Mixolydian b2,harmonic_major,[0]
+103,"[0, 4, 7]__[9, 1, 5]",Mixolydian b2,harmonic_major,[0]
+104,"[0, 4, 8]__[10, 2, 5]",Mixolydian b6,melodic_minor,[0]
+105,"[0, 4, 8]__[7, 10, 2]",Mixolydian b6,melodic_minor,[0]
+106,"[0, 3, 6]__[2, 5, 9]",Dorian b5,harmonic_major,[-1]
+107,"[0, 3, 6]__[3, 7, 10]",Dorian #4,harmonic_minor,[1]
+108,"[0, 3, 6]__[7, 10, 2]",Dorian #4,harmonic_minor,[1]
+109,"[0, 3, 7]__[1, 5, 9]",Dorian b2,melodic_minor,[-1]
+110,"[0, 3, 7]__[10, 2, 6]",Dorian #4,harmonic_minor,[1]
+111,"[0, 3, 7]__[2, 6, 10]",Dorian #4,harmonic_minor,[1]
+112,"[0, 3, 7]__[3, 6, 10]",Dorian #4,harmonic_minor,[1]
+113,"[0, 3, 7]__[5, 9, 1]",Dorian b2,melodic_minor,[-1]
+114,"[0, 3, 7]__[6, 10, 2]",Dorian #4,harmonic_minor,[1]
+115,"[0, 3, 7]__[9, 1, 5]",Dorian b2,melodic_minor,[-1]
+116,"[0, 4, 7]__[1, 5, 8]",Phrygian #3,harmonic_minor,[-1]
+117,"[0, 4, 7]__[4, 8, 11]",Harmonic major,harmonic_major,[1]
+118,"[0, 4, 7]__[5, 8, 11]",Harmonic major,harmonic_major,[1]
+119,"[0, 4, 7]__[8, 11, 2]",Harmonic major,harmonic_major,[1]
+120,"[0, 4, 8]__[1, 5, 8]",Phrygian #3,harmonic_minor,[-1]
+121,"[0, 4, 8]__[10, 1, 5]",Phrygian #3,harmonic_minor,[-1]
+122,"[0, 4, 8]__[4, 7, 11]",Harmonic major,harmonic_major,[1]
+123,"[0, 4, 8]__[7, 11, 2]",Harmonic major,harmonic_major,[1]
+124,"[0, 3, 6]__[11, 2, 6]",Lydian b3,harmonic_major,[2]
+125,"[0, 3, 6]__[2, 5, 8]",Aeolian b5,melodic_minor,[-2]
+126,"[0, 3, 6]__[7, 11, 2]",Lydian b3,harmonic_major,[2]
+127,"[0, 3, 7]__[1, 5, 8]",Phrygian,major,[-2]
+128,"[0, 3, 7]__[11, 2, 6]",Lydian b3,harmonic_major,[2]
+129,"[0, 4, 7]__[10, 2, 6]",Lydian Dominant,melodic_minor,[2]
+130,"[0, 4, 7]__[2, 6, 10]",Lydian Dominant,melodic_minor,[2]
+131,"[0, 4, 7]__[6, 10, 2]",Lydian Dominant,melodic_minor,[2]
+132,"[0, 3, 7]__[0, 4, 8]",Phrygian b4,harmonic_major,[-3]
+133,"[0, 3, 7]__[1, 4, 7]",Phrygian b4,harmonic_major,[-3]
+134,"[0, 3, 7]__[1, 4, 8]",Phrygian b4,harmonic_major,[-3]
+135,"[0, 3, 7]__[10, 1, 4]",Phrygian b4,harmonic_major,[-3]
+136,"[0, 3, 7]__[4, 7, 10]",Phrygian b4,harmonic_major,[-3]
+137,"[0, 3, 7]__[4, 8, 0]",Phrygian b4,harmonic_major,[-3]
+138,"[0, 3, 7]__[8, 0, 4]",Phrygian b4,harmonic_major,[-3]
+139,"[0, 4, 7]__[11, 2, 6]",Lydian,major,[3]
+140,"[0, 4, 7]__[3, 7, 10]",Phrygian b4,harmonic_major,[-3]
+141,"[0, 4, 7]__[8, 0, 3]",Phrygian b4,harmonic_major,[-3]
+142,"[0, 4, 8]__[0, 3, 7]",Phrygian b4,harmonic_major,[-3]
+143,"[0, 4, 8]__[2, 5, 9]",Ionian #5,harmonic_minor,[3]
+144,"[0, 4, 8]__[3, 7, 10]",Phrygian b4,harmonic_major,[-3]
+145,"[0, 4, 8]__[5, 9, 0]",Ionian #5,harmonic_minor,[3]
+146,"[0, 3, 6]__[0, 4, 7]",Lydian #2,harmonic_minor,[4]
+147,"[0, 3, 6]__[10, 1, 4]",Altered,melodic_minor,[-4]
+148,"[0, 3, 6]__[4, 7, 11]",Lydian #2,harmonic_minor,[4]
+149,"[0, 3, 7]__[4, 7, 11]",Lydian #2,harmonic_minor,[4]
+150,"[0, 3, 7]__[9, 0, 4]",Lydian #2,harmonic_minor,[4]
+151,"[0, 4, 7]__[0, 3, 6]",Lydian #2,harmonic_minor,[4]
+152,"[0, 4, 7]__[11, 3, 6]",Lydian #2,harmonic_minor,[4]
+153,"[0, 4, 7]__[11, 3, 7]",Lydian #2,harmonic_minor,[4]
+154,"[0, 4, 7]__[3, 6, 9]",Lydian #2,harmonic_minor,[4]
+155,"[0, 4, 7]__[3, 7, 11]",Lydian #2,harmonic_minor,[4]
+156,"[0, 4, 7]__[7, 11, 3]",Lydian #2,harmonic_minor,[4]
+157,"[0, 4, 7]__[9, 0, 3]",Lydian #2,harmonic_minor,[4]
+158,"[0, 4, 8]__[11, 2, 6]",Lydian #5,melodic_minor,[4]
+159,"[0, 4, 8]__[2, 6, 9]",Lydian #5,melodic_minor,[4]
+160,"[0, 4, 8]__[3, 6, 10]",Altered,melodic_minor,[-4]
+161,"[0, 4, 8]__[6, 10, 1]",Altered,melodic_minor,[-4]
+162,"[0, 3, 6]__[4, 8, 11]",Lydian #5 #2,harmonic_major,[5]
+163,"[0, 3, 6]__[8, 11, 3]",Lydian #5 #2,harmonic_major,[5]
+164,"[0, 3, 6]__[9, 1, 4]",Altered b7,harmonic_minor,[-5]
+165,"[0, 4, 8]__[11, 3, 6]",Lydian #5 #2,harmonic_major,[5]
+166,"[0, 4, 8]__[6, 9, 1]",Altered b7,harmonic_minor,[-5]
+167,"[0, 4, 8]__[8, 11, 3]",Lydian #5 #2,harmonic_major,[5]
+168,"[0, 4, 8]__[9, 1, 4]",Altered b7,harmonic_minor,[-5]

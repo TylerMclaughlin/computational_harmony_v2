@@ -1,0 +1,302 @@
+,offset,atom_name,brightness,parent_scale_type,mode
+24,+ 6,min7,-5,harmonic_minor,Altered b7
+66,- 3,maj7,-5,harmonic_minor,Altered b7
+99,- 4,dom7,-5,harmonic_minor,Altered b7
+124,+ 3,min7b5,-5,harmonic_minor,Altered b7
+131,+ 6,min7b5,-5,harmonic_minor,Altered b7
+165,+ 4,augMaj7,-5,harmonic_minor,Altered b7
+186,+ 1,minMaj7,-5,harmonic_minor,Altered b7
+203,- 3,minMaj7,-5,harmonic_minor,Altered b7
+234,- 3,fabe,-5,harmonic_minor,Altered b7
+250,+ 6,min9,-5,harmonic_minor,Altered b7
+18,+ 5,min7,-4,harmonic_major,Locrian b7
+46,+ 1,maj7,-4,harmonic_major,Locrian b7
+88,+ 5,dom7,-4,harmonic_major,Locrian b7
+100,- 4,dom7,-4,harmonic_major,Locrian b7
+125,+ 3,min7b5,-4,harmonic_major,Locrian b7
+158,+ 1,augMaj7,-4,harmonic_major,Locrian b7
+178,- 3,augMaj7,-4,harmonic_major,Locrian b7
+198,+ 6,minMaj7,-4,harmonic_major,Locrian b7
+235,- 3,fabe,-4,harmonic_major,Locrian b7
+283,+ 1,maj9,-4,harmonic_major,Locrian b7
+12,+ 3,min7,-4,melodic_minor,Altered
+94,+ 6,dom7,-4,melodic_minor,Altered
+101,- 4,dom7,-4,melodic_minor,Altered
+112,+ 0,min7b5,-4,melodic_minor,Altered
+148,- 2,min7b5,-4,melodic_minor,Altered
+166,+ 4,augMaj7,-4,melodic_minor,Altered
+187,+ 1,minMaj7,-4,melodic_minor,Altered
+222,+ 4,fabe,-4,melodic_minor,Altered
+271,+ 6,9,-4,melodic_minor,Altered
+274,- 4,9,-4,melodic_minor,Altered
+0,+ 0,min7,-3,harmonic_major,Phrygian b4
+62,- 4,maj7,-3,harmonic_major,Phrygian b4
+70,+ 0,dom7,-3,harmonic_major,Phrygian b4
+82,+ 3,dom7,-3,harmonic_major,Phrygian b4
+149,- 2,min7b5,-3,harmonic_major,Phrygian b4
+167,+ 4,augMaj7,-3,harmonic_major,Phrygian b4
+174,- 4,augMaj7,-3,harmonic_major,Phrygian b4
+188,+ 1,minMaj7,-3,harmonic_major,Phrygian b4
+223,+ 4,fabe,-3,harmonic_major,Phrygian b4
+295,- 4,maj9,-3,harmonic_major,Phrygian b4
+13,+ 3,min7,-3,major,Locrian
+19,+ 5,min7,-3,major,Locrian
+36,- 2,min7,-3,major,Locrian
+47,+ 1,maj7,-3,major,Locrian
+58,+ 6,maj7,-3,major,Locrian
+102,- 4,dom7,-3,major,Locrian
+113,+ 0,min7b5,-3,major,Locrian
+226,+ 6,fabe,-3,major,Locrian
+244,+ 3,min9,-3,major,Locrian
+256,- 2,min9,-3,major,Locrian
+275,- 4,9,-3,major,Locrian
+284,+ 1,maj9,-3,major,Locrian
+292,+ 6,maj9,-3,major,Locrian
+14,+ 3,min7,-2,harmonic_minor,Locrian #6
+59,+ 6,maj7,-2,harmonic_minor,Locrian #6
+89,+ 5,dom7,-2,harmonic_minor,Locrian #6
+114,+ 0,min7b5,-2,harmonic_minor,Locrian #6
+126,+ 3,min7b5,-2,harmonic_minor,Locrian #6
+159,+ 1,augMaj7,-2,harmonic_minor,Locrian #6
+199,+ 6,minMaj7,-2,harmonic_minor,Locrian #6
+207,- 2,minMaj7,-2,harmonic_minor,Locrian #6
+227,+ 6,fabe,-2,harmonic_minor,Locrian #6
+245,+ 3,min9,-2,harmonic_minor,Locrian #6
+1,+ 0,min7,-2,major,Phrygian
+20,+ 5,min7,-2,major,Phrygian
+37,- 2,min7,-2,major,Phrygian
+48,+ 1,maj7,-2,major,Phrygian
+63,- 4,maj7,-2,major,Phrygian
+83,+ 3,dom7,-2,major,Phrygian
+137,- 5,min7b5,-2,major,Phrygian
+214,+ 1,fabe,-2,major,Phrygian
+247,+ 5,min9,-2,major,Phrygian
+257,- 2,min9,-2,major,Phrygian
+265,+ 3,9,-2,major,Phrygian
+285,+ 1,maj9,-2,major,Phrygian
+296,- 4,maj9,-2,major,Phrygian
+21,+ 5,min7,-2,melodic_minor,Aeolian b5
+103,- 4,dom7,-2,melodic_minor,Aeolian b5
+106,- 2,dom7,-2,melodic_minor,Aeolian b5
+115,+ 0,min7b5,-2,melodic_minor,Aeolian b5
+118,+ 2,min7b5,-2,melodic_minor,Aeolian b5
+170,+ 6,augMaj7,-2,melodic_minor,Aeolian b5
+190,+ 3,minMaj7,-2,melodic_minor,Aeolian b5
+228,+ 6,fabe,-2,melodic_minor,Aeolian b5
+276,- 4,9,-2,melodic_minor,Aeolian b5
+277,- 2,9,-2,melodic_minor,Aeolian b5
+6,+ 2,min7,-1,harmonic_major,Dorian b5
+67,- 2,maj7,-1,harmonic_major,Dorian b5
+76,+ 2,dom7,-1,harmonic_major,Dorian b5
+90,+ 5,dom7,-1,harmonic_major,Dorian b5
+116,+ 0,min7b5,-1,harmonic_major,Dorian b5
+171,+ 6,augMaj7,-1,harmonic_major,Dorian b5
+179,- 2,augMaj7,-1,harmonic_major,Dorian b5
+191,+ 3,minMaj7,-1,harmonic_major,Dorian b5
+229,+ 6,fabe,-1,harmonic_major,Dorian b5
+298,- 2,maj9,-1,harmonic_major,Dorian b5
+38,- 2,min7,-1,harmonic_minor,Phrygian #3
+49,+ 1,maj7,-1,harmonic_minor,Phrygian #3
+71,+ 0,dom7,-1,harmonic_minor,Phrygian #3
+138,- 5,min7b5,-1,harmonic_minor,Phrygian #3
+150,- 2,min7b5,-1,harmonic_minor,Phrygian #3
+175,- 4,augMaj7,-1,harmonic_minor,Phrygian #3
+189,+ 1,minMaj7,-1,harmonic_minor,Phrygian #3
+194,+ 5,minMaj7,-1,harmonic_minor,Phrygian #3
+215,+ 1,fabe,-1,harmonic_minor,Phrygian #3
+258,- 2,min9,-1,harmonic_minor,Phrygian #3
+2,+ 0,min7,-1,major,Aeolian
+22,+ 5,min7,-1,major,Aeolian
+25,- 5,min7,-1,major,Aeolian
+50,+ 3,maj7,-1,major,Aeolian
+64,- 4,maj7,-1,major,Aeolian
+107,- 2,dom7,-1,major,Aeolian
+119,+ 2,min7b5,-1,major,Aeolian
+230,- 4,fabe,-1,major,Aeolian
+238,+ 0,min9,-1,major,Aeolian
+248,+ 5,min9,-1,major,Aeolian
+278,- 2,9,-1,major,Aeolian
+286,+ 3,maj9,-1,major,Aeolian
+297,- 4,maj9,-1,major,Aeolian
+3,+ 0,min7,-1,melodic_minor,Dorian b2
+84,+ 3,dom7,-1,melodic_minor,Dorian b2
+91,+ 5,dom7,-1,melodic_minor,Dorian b2
+139,- 5,min7b5,-1,melodic_minor,Dorian b2
+142,- 3,min7b5,-1,melodic_minor,Dorian b2
+160,+ 1,augMaj7,-1,melodic_minor,Dorian b2
+208,- 2,minMaj7,-1,melodic_minor,Dorian b2
+216,+ 1,fabe,-1,melodic_minor,Dorian b2
+266,+ 3,9,-1,melodic_minor,Dorian b2
+268,+ 5,9,-1,melodic_minor,Dorian b2
+30,- 3,min7,0,harmonic_major,Mixolydian b2
+54,+ 5,maj7,0,harmonic_major,Mixolydian b2
+72,+ 0,dom7,0,harmonic_major,Mixolydian b2
+105,- 3,dom7,0,harmonic_major,Mixolydian b2
+140,- 5,min7b5,0,harmonic_major,Mixolydian b2
+161,+ 1,augMaj7,0,harmonic_major,Mixolydian b2
+169,+ 5,augMaj7,0,harmonic_major,Mixolydian b2
+209,- 2,minMaj7,0,harmonic_major,Mixolydian b2
+217,+ 1,fabe,0,harmonic_major,Mixolydian b2
+289,+ 5,maj9,0,harmonic_major,Mixolydian b2
+23,+ 5,min7,0,harmonic_minor,Harmonic Minor
+65,- 4,maj7,0,harmonic_minor,Harmonic Minor
+95,- 5,dom7,0,harmonic_minor,Harmonic Minor
+120,+ 2,min7b5,0,harmonic_minor,Harmonic Minor
+130,+ 5,min7b5,0,harmonic_minor,Harmonic Minor
+162,+ 3,augMaj7,0,harmonic_minor,Harmonic Minor
+182,+ 0,minMaj7,0,harmonic_minor,Harmonic Minor
+202,- 4,minMaj7,0,harmonic_minor,Harmonic Minor
+231,- 4,fabe,0,harmonic_minor,Harmonic Minor
+249,+ 5,min9,0,harmonic_minor,Harmonic Minor
+4,+ 0,min7,0,major,Dorian
+7,+ 2,min7,0,major,Dorian
+26,- 5,min7,0,major,Dorian
+51,+ 3,maj7,0,major,Dorian
+68,- 2,maj7,0,major,Dorian
+92,+ 5,dom7,0,major,Dorian
+143,- 3,min7b5,0,major,Dorian
+218,+ 3,fabe,0,major,Dorian
+239,+ 0,min9,0,major,Dorian
+251,- 5,min9,0,major,Dorian
+269,+ 5,9,0,major,Dorian
+287,+ 3,maj9,0,major,Dorian
+299,- 2,maj9,0,major,Dorian
+27,- 5,min7,0,melodic_minor,Mixolydian b6
+73,+ 0,dom7,0,melodic_minor,Mixolydian b6
+108,- 2,dom7,0,melodic_minor,Mixolydian b6
+121,+ 2,min7b5,0,melodic_minor,Mixolydian b6
+127,+ 4,min7b5,0,melodic_minor,Mixolydian b6
+176,- 4,augMaj7,0,melodic_minor,Mixolydian b6
+195,+ 5,minMaj7,0,melodic_minor,Mixolydian b6
+232,- 4,fabe,0,melodic_minor,Mixolydian b6
+259,+ 0,9,0,melodic_minor,Mixolydian b6
+279,- 2,9,0,melodic_minor,Mixolydian b6
+15,+ 4,min7,1,harmonic_major,Harmonic major
+42,+ 0,maj7,1,harmonic_major,Harmonic major
+85,+ 4,dom7,1,harmonic_major,Harmonic major
+96,- 5,dom7,1,harmonic_major,Harmonic major
+122,+ 2,min7b5,1,harmonic_major,Harmonic major
+154,+ 0,augMaj7,1,harmonic_major,Harmonic major
+177,- 4,augMaj7,1,harmonic_major,Harmonic major
+196,+ 5,minMaj7,1,harmonic_major,Harmonic major
+233,- 4,fabe,1,harmonic_major,Harmonic major
+280,+ 0,maj9,1,harmonic_major,Harmonic major
+5,+ 0,min7,1,harmonic_minor,Dorian #4
+52,+ 3,maj7,1,harmonic_minor,Dorian #4
+77,+ 2,dom7,1,harmonic_minor,Dorian #4
+117,+ 0,min7b5,1,harmonic_minor,Dorian #4
+144,- 3,min7b5,1,harmonic_minor,Dorian #4
+180,- 2,augMaj7,1,harmonic_minor,Dorian #4
+192,+ 3,minMaj7,1,harmonic_minor,Dorian #4
+200,- 5,minMaj7,1,harmonic_minor,Dorian #4
+219,+ 3,fabe,1,harmonic_minor,Dorian #4
+240,+ 0,min9,1,harmonic_minor,Dorian #4
+8,+ 2,min7,1,major,Mixolydian
+28,- 5,min7,1,major,Mixolydian
+31,- 3,min7,1,major,Mixolydian
+55,+ 5,maj7,1,major,Mixolydian
+69,- 2,maj7,1,major,Mixolydian
+74,+ 0,dom7,1,major,Mixolydian
+128,+ 4,min7b5,1,major,Mixolydian
+236,- 2,fabe,1,major,Mixolydian
+241,+ 2,min9,1,major,Mixolydian
+252,- 5,min9,1,major,Mixolydian
+260,+ 0,9,1,major,Mixolydian
+290,+ 5,maj9,1,major,Mixolydian
+300,- 2,maj9,1,major,Mixolydian
+9,+ 2,min7,1,melodic_minor,Melodic Minor
+93,+ 5,dom7,1,melodic_minor,Melodic Minor
+97,- 5,dom7,1,melodic_minor,Melodic Minor
+145,- 3,min7b5,1,melodic_minor,Melodic Minor
+151,- 1,min7b5,1,melodic_minor,Melodic Minor
+163,+ 3,augMaj7,1,melodic_minor,Melodic Minor
+183,+ 0,minMaj7,1,melodic_minor,Melodic Minor
+220,+ 3,fabe,1,melodic_minor,Melodic Minor
+270,+ 5,9,1,melodic_minor,Melodic Minor
+272,- 5,9,1,melodic_minor,Melodic Minor
+39,- 1,min7,2,harmonic_major,Lydian b3
+60,- 5,maj7,2,harmonic_major,Lydian b3
+78,+ 2,dom7,2,harmonic_major,Lydian b3
+109,- 1,dom7,2,harmonic_major,Lydian b3
+146,- 3,min7b5,2,harmonic_major,Lydian b3
+164,+ 3,augMaj7,2,harmonic_major,Lydian b3
+172,- 5,augMaj7,2,harmonic_major,Lydian b3
+184,+ 0,minMaj7,2,harmonic_major,Lydian b3
+221,+ 3,fabe,2,harmonic_major,Lydian b3
+293,- 5,maj9,2,harmonic_major,Lydian b3
+10,+ 2,min7,2,major,Ionian
+16,+ 4,min7,2,major,Ionian
+32,- 3,min7,2,major,Ionian
+43,+ 0,maj7,2,major,Ionian
+56,+ 5,maj7,2,major,Ionian
+98,- 5,dom7,2,major,Ionian
+152,- 1,min7b5,2,major,Ionian
+224,+ 5,fabe,2,major,Ionian
+242,+ 2,min9,2,major,Ionian
+253,- 3,min9,2,major,Ionian
+273,- 5,9,2,major,Ionian
+281,+ 0,maj9,2,major,Ionian
+291,+ 5,maj9,2,major,Ionian
+33,- 3,min7,2,melodic_minor,Lydian Dominant
+75,+ 0,dom7,2,melodic_minor,Lydian Dominant
+79,+ 2,dom7,2,melodic_minor,Lydian Dominant
+129,+ 4,min7b5,2,melodic_minor,Lydian Dominant
+132,+ 6,min7b5,2,melodic_minor,Lydian Dominant
+181,- 2,augMaj7,2,melodic_minor,Lydian Dominant
+201,- 5,minMaj7,2,melodic_minor,Lydian Dominant
+237,- 2,fabe,2,melodic_minor,Lydian Dominant
+261,+ 0,9,2,melodic_minor,Lydian Dominant
+262,+ 2,9,2,melodic_minor,Lydian Dominant
+11,+ 2,min7,3,harmonic_minor,Ionian #5
+57,+ 5,maj7,3,harmonic_minor,Ionian #5
+86,+ 4,dom7,3,harmonic_minor,Ionian #5
+123,+ 2,min7b5,3,harmonic_minor,Ionian #5
+153,- 1,min7b5,3,harmonic_minor,Ionian #5
+155,+ 0,augMaj7,3,harmonic_minor,Ionian #5
+197,+ 5,minMaj7,3,harmonic_minor,Ionian #5
+204,- 3,minMaj7,3,harmonic_minor,Ionian #5
+225,+ 5,fabe,3,harmonic_minor,Ionian #5
+243,+ 2,min9,3,harmonic_minor,Ionian #5
+17,+ 4,min7,3,major,Lydian
+34,- 3,min7,3,major,Lydian
+40,- 1,min7,3,major,Lydian
+44,+ 0,maj7,3,major,Lydian
+61,- 5,maj7,3,major,Lydian
+80,+ 2,dom7,3,major,Lydian
+133,+ 6,min7b5,3,major,Lydian
+210,+ 0,fabe,3,major,Lydian
+246,+ 4,min9,3,major,Lydian
+254,- 3,min9,3,major,Lydian
+263,+ 2,9,3,major,Lydian
+282,+ 0,maj9,3,major,Lydian
+294,- 5,maj9,3,major,Lydian
+35,- 3,min7,4,harmonic_minor,Lydian #2
+45,+ 0,maj7,4,harmonic_minor,Lydian #2
+110,- 1,dom7,4,harmonic_minor,Lydian #2
+134,+ 6,min7b5,4,harmonic_minor,Lydian #2
+147,- 3,min7b5,4,harmonic_minor,Lydian #2
+173,- 5,augMaj7,4,harmonic_minor,Lydian #2
+185,+ 0,minMaj7,4,harmonic_minor,Lydian #2
+193,+ 4,minMaj7,4,harmonic_minor,Lydian #2
+211,+ 0,fabe,4,harmonic_minor,Lydian #2
+255,- 3,min9,4,harmonic_minor,Lydian #2
+41,- 1,min7,4,melodic_minor,Lydian #5
+81,+ 2,dom7,4,melodic_minor,Lydian #5
+87,+ 4,dom7,4,melodic_minor,Lydian #5
+135,+ 6,min7b5,4,melodic_minor,Lydian #5
+141,- 4,min7b5,4,melodic_minor,Lydian #5
+156,+ 0,augMaj7,4,melodic_minor,Lydian #5
+205,- 3,minMaj7,4,melodic_minor,Lydian #5
+212,+ 0,fabe,4,melodic_minor,Lydian #5
+264,+ 2,9,4,melodic_minor,Lydian #5
+267,+ 4,9,4,melodic_minor,Lydian #5
+29,- 4,min7,5,harmonic_major,Lydian #5 #2
+53,+ 4,maj7,5,harmonic_major,Lydian #5 #2
+104,- 4,dom7,5,harmonic_major,Lydian #5 #2
+111,- 1,dom7,5,harmonic_major,Lydian #5 #2
+136,+ 6,min7b5,5,harmonic_major,Lydian #5 #2
+157,+ 0,augMaj7,5,harmonic_major,Lydian #5 #2
+168,+ 4,augMaj7,5,harmonic_major,Lydian #5 #2
+206,- 3,minMaj7,5,harmonic_major,Lydian #5 #2
+213,+ 0,fabe,5,harmonic_major,Lydian #5 #2
+288,+ 4,maj9,5,harmonic_major,Lydian #5 #2
