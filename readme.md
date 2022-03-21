@@ -74,7 +74,7 @@ After adding F# harmonic minor and Eb harmonic major, two scales maximally dista
 
 ### 18 scale transition rules for maximally smooth voice leading
 
-By inspecting the scale networks and considering the relationships between the roots of the scales, the networks are composed of 9 types of bright-to-dark transitions, or equivalently, 9 types of edges.  The 9 *dark-to-bright* transitions can be easily derived by inverting the dark transitions (by imagining the arrows point in the opposite direction).
+By inspecting the scale networks and considering the relationships between the roots of the scales, the networks are composed of 9 types of bright-to-dark transitions, or equivalently, 9 types of edges (rules 1-9).  The 9 *dark-to-bright* transitions (rules 10-18) can be easily derived by inverting the bright-to-dark transitions (by imagining the arrows point in the opposite direction).
 
 Smooth voice leading is defined as transitioning between chords or scales by changing only a few notes by a small amount.  The 18 "maximally" smooth voice leading rules I have tabulated describe transitions where a single note is sharpened or flattened to transition to a new scale.  Smooth and maximally smooth voice leading is described in more detail in prior work by Dmitri Tymoczko in 2004 and Joseph Strauss in 2005 (see [References](#References)).
 
