@@ -21,6 +21,9 @@ You may be familiar with the concept in music theory about major scale modes tha
 
 ```brightness = sum (pitch classes (mode_x)) - sum (pitch classes (Dorian))```
 
+Redditor u/IronAndAero asked about why dorian is the center and if this is a circular argument.  
+The assumption that dorian is neutral is based around how the 7 major scale modes have dorian as the center when sorted by brightness, i.e.,  `DARKEST` `locrian` `phrygian` `aeolian` `**dorian**` `mixolydian` `ionian` `lydian` `BRIGHTEST`. Dorian also has bright and dark properties, with the #6 and b3.   Below, you'll see that the other 3 scale types are also balanced around a center, and this center happens to be the exact same center (same score) as for the major scale.  If you were to argue that ionian was the real center, for example, then you'd have to conclude that on average, these 28 jazz modes are skewed towards sounding dark.  While I doubt harmony is skewed like this, it may be the case.  But even if the scales are naturally skewed bright or dark, you can still treat brightness/darkness as "relative to all the other modes".  Under this "relative" formulation, dorian will still remain at the center of the spectrum.
+
 ## Results
 
 ### Scale modes arranged along the brightness/darkness spectrum
