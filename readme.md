@@ -11,6 +11,8 @@ Scale network figures were generated with networkx and calculations were done wi
 
 This repo started when I tried [answering my own question](https://music.stackexchange.com/questions/67293/ranking-dominant-chord-alterations-by-dissonance) about ranking dominant 7th extensions by dissonance.  I realized the notion of dissonance is hard to define and complicated, but I also started to appreciate brightness and darkness as a second axis or property that may be used for thinking about harmonies and scales.
 
+A refactored version of my earlier project titled ["Network Theory of Jazz Scales"](https://github.com/TylerMclaughlin/computational-harmony).  Aside from many implementation details, the biggest change is the representation of scale networks as directed graphs, where the directed edges convey whether a given scale transition is bright-to-dark or dark-to-bright (arrows now point from bright-to-dark).  The symmetry between darkness and brightness in music theory underlies the increasingly talked about concept of "negative harmony", discovered by Ernst Levy in 1985 and popularized by Jacob Collier.
+
 ## Defining brightness and darkness.
 
 You may be familiar with the concept in music theory about major scale modes that the locrian mode is darkest, lydian is brightest, and dorian is neutral. This is related to the circle of fifths, where going up a fourth is considered a transition from bright to dark because a note is flattened (made darker relative to the previous scale). I was able to generalize the notion of brightness beyond major modes to the modes of melodic minor, harmonic minor, and harmonic major with the following simple equation:
@@ -37,11 +39,11 @@ These modes can thus be used as a reference point for composing with brightness 
 The fact that dorian, mixolydian b6, harmonic minor, and mixolydian b2 are neutral centers is to my knowledge, not widely appreciated in the music theory literature.
 Perhaps one could argue for systematic renaming of scales according to their graph-theoretical properties and apparent harmonic symmetry; however, the etymological origins of the names of scales most likely predates computers and graph theory, and musicians benefit from having conventions for communicating ideas. Further, they are used to having many names for the same chord (for example "min7b5" and "half-diminished" mean the same thing). Perhaps a new set off names should be proposed.
 
-### directed graphs of scales 
+### Directed graphs of scales 
 
 Arrows between scales represent sharing 6 common tones and pointing from bright to dark. 
 
-#### Major, harmonic major, and harmonic minor scales near C major. 
+#### Major, harmonic major, and harmonic minor scales near C major
 
 By plotting all 3 scale types (everything but the melodic minor modes) you can see the structure of the scale network in a fairly elegant layout.
 
@@ -49,13 +51,13 @@ By plotting all 3 scale types (everything but the melodic minor modes) you can s
 
 If you add the melodic minor modes (below) you can see the network becomes more complex in the sense that there are many overlapping edges.  These graphs cannot be drawn without overlapping edges (graph theoreticians would say they are nonplanar graphs).
 
-#### Network of 30 scales near C major. 
+#### Network of 30 scales near C major
 
 Network comprised of 7 harmonic minor, 7 harmonic major, and 9 melodic minor scales.
 
 ![30 scales](figures/7_note_pressing_scale_network.png)
 
-#### Full cycle of 32 scales near C major. 
+#### Full cycle of 32 scales near C major and all 28 modes 
 
 After adding F# harmonic minor and Eb harmonic major, two scales maximally distant from D dorian that contain the root D, a complete, large-scale cycle emerges.  Adding these two scales now includes the altered b7 mode and lydian #5 #2 mode, meaning all 28 modes are now represented.
 
@@ -97,6 +99,8 @@ These maximally smooth scale transitions could be used as rules for creating gen
 
 
 ## References
+
+Levy, Ernst. A theory of harmony. Suny Press, 1985.
 
 Tymoczko, Dmitri. "Scale networks and Debussy." Journal of Music Theory 48.2 (2004): 219-294.
 
