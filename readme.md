@@ -9,9 +9,9 @@ Scale network figures were generated with networkx and calculations were done wi
 
 ## History
 
-This repo started when I tried [answering my own question](https://music.stackexchange.com/questions/67293/ranking-dominant-chord-alterations-by-dissonance) about ranking dominant 7th extensions by dissonance.  I realized the notion of dissonance is hard to define and complicated, but I also started to appreciate brightness and darkness as a second axis or property that may be used for thinking about harmonies and scales.
+This repo started when I tried [answering my own question](https://music.stackexchange.com/questions/67293/ranking-dominant-chord-alterations-by-dissonance) about ranking dominant 7th extensions by dissonance.  I learned the notion of dissonance is hard to define and complicated, but I also started to appreciate brightness and darkness as a second axis or property that may be used for thinking about harmonies and scales.
 
-A refactored version of my earlier project titled ["Network Theory of Jazz Scales"](https://github.com/TylerMclaughlin/computational-harmony).  Aside from many implementation details, the biggest change is the representation of scale networks as directed graphs, where the directed edges convey whether a given scale transition is bright-to-dark or dark-to-bright (arrows now point from bright-to-dark).  The symmetry between darkness and brightness in music theory underlies the increasingly talked about concept of "negative harmony", discovered by Ernst Levy in 1985 and popularized by Jacob Collier.
+This project is a completely refactored version of my earlier project titled ["Network Theory of Jazz Scales"](https://github.com/TylerMclaughlin/computational-harmony).  Aside from many implementation details, the biggest change is the representation of scale networks as directed graphs, where the directed edges convey whether a given scale transition is bright-to-dark or dark-to-bright (arrows now point from bright-to-dark).  The symmetry between darkness and brightness in music theory underlies the increasingly shared concept of "negative harmony", discovered by Ernst Levy in 1985 and popularized by Jacob Collier.
 
 ## Defining brightness and darkness.
 
@@ -33,11 +33,11 @@ You can see that for all parent scale types except major, the complete generaliz
 
 Another interesting observation is that there is a staggered pattern of the three unique diminished seventh chords (considered equivalent under inversion) in the harmonic major and harmonic minor scales.
 
-Perhaps the most useful finding (for negative harmony and jazz composition) is that the neutral modes of the four scale types are dorian (the second mode of themajor scale), mixolydian b6 (the fifth mode of the melodic minor scale), harmonic minor (the first mode of the eponymous parent scale), and mixolydian b2 (the fifth mode of the harmonic major scale).  
+Perhaps the most useful finding (for negative harmony and jazz composition) is that the neutral modes of the four scale types are dorian (the second mode of the major scale), mixolydian b6 (the fifth mode of the melodic minor scale), harmonic minor (the first mode of the eponymous parent scale), and mixolydian b2 (the fifth mode of the harmonic major scale).  
 These modes can thus be used as a reference point for composing with brightness and darkness.  
 
 The fact that dorian, mixolydian b6, harmonic minor, and mixolydian b2 are neutral centers is to my knowledge, not widely appreciated in the music theory literature.
-Perhaps one could argue for systematic renaming of scales according to their graph-theoretical properties and apparent harmonic symmetry; however, the etymological origins of the names of scales most likely predates computers and graph theory, and musicians benefit from having conventions for communicating ideas. Further, they are used to having many names for the same chord (for example "min7b5" and "half-diminished" mean the same thing). Perhaps a new set off names should be proposed.
+Perhaps one could argue for systematic renaming of scales according to their graph-theoretical properties and apparent harmonic symmetry; however, the etymological origins of the names of scales most likely predate computers and graph theory, and musicians benefit from having conventions for communicating ideas. Further, musicians are used to having many names for the same chord (for example "min7b5" and "half-diminished" refer to the same thing). Perhaps a new set of names should be proposed.
 
 ### Directed graphs of scales 
 
