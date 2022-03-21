@@ -46,8 +46,8 @@ scale_rules = {('major', 'dark') : [(5, 'major'), (0, 'harmonic_major'), (0, 'me
         ('harmonic_minor', 'dark') : [(3,'major'), (3, 'harmonic_major') ],
         ('major', 'bright') : [(-5, 'major'), (2, 'melodic_minor'), (-3, 'harmonic_minor')],
         ('melodic_minor', 'bright') : [(0, 'major'), (-5, 'harmonic_major')],
-        ('harmonic_major', 'bright') : [(0, 'major'), (-3, 'harmonic_major')],
-        ('harmonic_minor', 'bright') : [(0, 'harmonic_major'), (0, 'harmonic_major')]
+        ('harmonic_major', 'bright') : [(0, 'major'), (-3, 'harmonic_minor')],
+        ('harmonic_minor', 'bright') : [(0, 'melodic_minor'), (0, 'harmonic_major')]
         }
 
 
