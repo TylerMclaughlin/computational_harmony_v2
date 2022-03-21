@@ -20,10 +20,10 @@ You may be familiar with the concept in music theory that locrian mode is darkes
 
 ### scale modes arranged along the brightness/darkness spectrum.
 
-[modes_spreadsheet](figures/modes_spreadsheet.png)
+![modes_spreadsheet](figures/modes_spreadsheet.png)
 
 ### directed graph of scales 
 
 Arrows between scales represent sharing 6 common tones and pointing from bright to dark. 
 
-[7 note pressing scale_network](figures/7_note_pressing_scale_network.png)
+![7 note pressing scale_network](figures/7_note_pressing_scale_network.png)
