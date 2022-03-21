@@ -9,6 +9,8 @@ Other applications and experiments found in this code repository include charact
 All results were obtained using python code in this repository.
 Scale network figures were generated with networkx and calculations were done with numpy and pandas.
 
+**TLDR**:  I defined a formula for calculating the brightness score for any 7 note mode, where locrian has a brightness score of -3, dorian 0, and lydian +3.   Dorian, mixolydian b6, harmonic minor mode, and mixolydian b2 are neutral harmonic centers on the brightness/darkness spectrum for major, melodic minor, harmonic minor, and harmonic major, respectively.  By starting at the neutral centers and progressively enumerating jazz modes, for melodic minor, harmonic minor, and harmonic major, "rootless" modes are encountered before all 7 traditional modes are encountered.  Network analysis finds 18 "rules" for modulation, allowing composers to transition from one scale or mode to another while sharpening or flattening a single note by one half step ("maximally smooth voice leading").  Major scales are the most harmonically versatile of the four scale types, with more options for maximally smooth voice leading.
+
 ## History
 
 This repo started when I tried [answering my own question](https://music.stackexchange.com/questions/67293/ranking-dominant-chord-alterations-by-dissonance) about ranking dominant 7th extensions by dissonance.  I learned the notion of dissonance is hard to define and complicated, but I also started to appreciate brightness and darkness as a second axis or property that may be used for thinking about harmonies and scales.
@@ -20,6 +22,8 @@ This project is a completely refactored version of my earlier project titled ["N
 You may be familiar with the concept in music theory about major scale modes that the locrian mode is darkest, lydian is brightest, and dorian is neutral. This is related to the circle of fifths, where going up a fourth is considered a transition from bright to dark because a note is flattened (made darker relative to the previous scale). I was able to generalize the notion of brightness beyond major modes to the modes of melodic minor, harmonic minor, and harmonic major with the following simple equation:
 
 ```brightness = sum (pitch classes (mode_x)) - sum (pitch classes (Dorian))```
+
+Under this formula, locrian has a brightness score of -3, dorian (neutral) has a brightness score of 0, and lydian has a brightness score of +3.
 
 Redditor u/IronAndAero asked about why dorian is the center and if this is a circular argument.  
 The assumption that dorian is neutral is based around how the 7 major scale modes have dorian as the center when sorted by brightness, i.e.,  `DARKEST` `locrian` `phrygian` `aeolian` `**dorian**` `mixolydian` `ionian` `lydian` `BRIGHTEST`. Dorian also has bright and dark properties, with the #6 and b3.   Below, you'll see that the other 3 scale types are also balanced around a center, and this center happens to be the exact same center (same score) as for the major scale.  If you were to argue that ionian was the real center, for example, then you'd have to conclude that on average, these 28 jazz modes are skewed towards sounding dark.  While I doubt harmony is skewed like this, it may be the case.  But even if the scales are naturally skewed bright or dark, you can still treat brightness/darkness as "relative to all the other modes".  Under this "relative" formulation, dorian will still remain at the center of the spectrum.
