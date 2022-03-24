@@ -121,6 +121,8 @@ These maximally smooth scale transitions could be used as rules for creating gen
 
 ## References
 
+Cohn, Richard. Audacious Euphony: Chromatic Harmony and the Triad's Second Nature. OUP USA, 2012.
+
 Levy, Ernst. A theory of harmony. Suny Press, 1985.
 
 Tymoczko, Dmitri. "Scale networks and Debussy." Journal of Music Theory 48.2 (2004): 219-294.
