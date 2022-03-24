@@ -4,7 +4,7 @@ This computational music theory project assigns a brightness score for all 28 mo
 
 I constructed scale networks to visualize the interrelations between the 28 modes.  From these networks I found 18 "rules" for modulation that allow for maximally smooth voice leading.
 
-Other applications and experiments found in this code repository include characterizing and ranking the brightness of 1) all triad combos, 2) all 7th chords added to a root note, and 3) all 59 possible dominant 7th chord extensions (for these three applications, I am only considering chords that are subsets of at least one of the 28 modes derived from the four parent scale types.)
+Other applications and experiments found in this code repository include characterizing and ranking the brightness of 1) [all combinations of two triads](tables/all_two_triads_ranked.csv), 2), [all combinations of two triads resulting in 6 unique pitch classes](tables/all_two_triads_ranked.csv), 3) [all 7th chords added to a root note](tables/final_sorted_pitch_class_brightness.csv), and 4) [all 59 possible dominant 7th chord extensions](tables/dom7_extensions_brightness_sorted_aggregated.csv) (for these three applications, I am only considering chords that are subsets of at least one of the 28 modes derived from the four parent scale types.)
 
 All results were obtained using python code in this repository.
 Scale network figures were generated with networkx and calculations were done with numpy and pandas.
